@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋! My name is Mariana and I'm a devenloper junior, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Mariana and I'm a developer junior, from Brazil</h2>
 
 ###
 
